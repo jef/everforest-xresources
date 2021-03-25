@@ -1,6 +1,8 @@
 # Forest Night - Xresources
 
-![colortest](colortest.png)
+![htop](assets/htop.png)
+
+![desktop](assets/htop.png)
 
 ## Installation
 
