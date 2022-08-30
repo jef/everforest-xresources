@@ -1,4 +1,4 @@
-# Forest Night - Xresources
+# Everforest - Xresources
 
 ![htop](assets/htop.png)
 
@@ -10,16 +10,16 @@ Detailed information about Xresources configurations can be found in the [Arch L
 
 ### Manual
 
-Copy the content of the [`forest-night`](https://raw.githubusercontent.com/jef/forest-night-xresources/master/forest-night) file into the `~/.Xresources` or `~/.Xdefaults` file and reload the settings with `xrdb`.
+Copy the content of the [`everforest`](https://raw.githubusercontent.com/jef/everforest-xresources/main/everforest) file into the `~/.Xresources` or `~/.Xdefaults` file and reload the settings with `xrdb`.
 
 ### Via `#include`
 
-Copy the [`forest-night`](https://raw.githubusercontent.com/jef/forest-night-xresources/master/forest-night) file to any place and import it via `#include "/path/to/forest-night"`.
+Copy the [`everforest`](https://raw.githubusercontent.com/jef/everforest-xresources/main/everforest) file to any place and import it via `#include "/path/to/everforest"`.
 
 ### Via `merge`
 
-To merge the color theme into your current settings copy the [`forest-night`](https://raw.githubusercontent.com/jef/forest-night-xresources/master/forest-night) file to any place and run `xrdb -merge path/to/forest-night`.
+To merge the color theme into your current settings copy the [`everforest`](https://raw.githubusercontent.com/jef/everforest-xresources/main/everforest) file to any place and run `xrdb -merge path/to/everforest`.
 
 ## Credits
 
-Based off [sainnhe's Forest Night](https://github.com/sainnhe/forest-night).
+Based off [sainnhe's Everforest](https://github.com/sainnhe/everforest).
